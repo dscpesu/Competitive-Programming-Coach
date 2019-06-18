@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+  //cpc tag: decl  
+  int a,b;
+
+  //cpc tag: in
+  scanf("%d", &a);
+  scanf(" %d", &b);
+
+  //cpc tag: out arith
+  printf("%d\n", a+b);
+  printf("%d\n", a-b);
+  printf("%d\n", a*b);
+
+  //cpc tag: check out arith
+  if(b)
+    printf("%f\n", (float)a/b);
+    
+  return 0;
+}

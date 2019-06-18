@@ -1,0 +1,1 @@
+code_blocks = ['decl', 'in', 'out_arith', 'check_out_arith']
