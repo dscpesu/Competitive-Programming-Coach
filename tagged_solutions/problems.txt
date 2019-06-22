@@ -1,0 +1,8 @@
+https://www.hackerrank.com/challenges/printing-tokens-/problem
+c1.c
+https://www.hackerrank.com/challenges/reverse-array-c/problem
+c2.c
+https://www.hackerrank.com/challenges/1d-arrays-in-c/problem
+c3.c
+https://www.hackerrank.com/challenges/recursion-in-c/problem
+c4.c
