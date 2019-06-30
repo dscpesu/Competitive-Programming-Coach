@@ -6,3 +6,11 @@ https://www.hackerrank.com/challenges/1d-arrays-in-c/problem
 c3.c
 https://www.hackerrank.com/challenges/recursion-in-c/problem
 c4.c
+https://www.hackerrank.com/challenges/2d-array/problem
+c5.c
+https://www.hackerrank.com/challenges/array-left-rotation/problem
+c6.c
+https://www.hackerrank.com/contests/alcoding-summer-weekly-contest-4/challenges/clash-of-clans-3-0/problem
+c7.c
+https://www.hackerrank.com/challenges/sparse-arrays/problem
+c8.c
